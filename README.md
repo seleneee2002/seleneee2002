@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Selene ![Profile Views](https://komarev.com/ghpvc/?username=seleneee2002&color=dc143c&style=flat)
 
-🎓 **Health Informatics @ Yale** | 🏥 Bridging Code & Healthcare | 🧠 AI for Medical Innovation
+🎓 **Health Informatics @ Yale** | 🏥 Bridging Code & Healthcare
 
 ---
 
@@ -17,11 +17,6 @@
 - 📊 **Yale Research**: Conducting economics & policy research
 - 🌱 Learning: **Deep Learning** 
 
-
----
-
-### 💬 **Fun Fact**
-I once trained a **Quasi-Poisson Model to predict disparity during Great Spanish Flu** ☕ using historical data! 
 
 ---
 
