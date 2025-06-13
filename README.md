@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Selene ![Profile Views](https://komarev.com/ghpvc/?username=seleneee2002&color=dc143c&style=flat)
+# 👋 Hi! I'm Mengyao ![Profile Views](https://komarev.com/ghpvc/?username=seleneee2002&color=dc143c&style=flat)
 
 🎓 **Health Informatics @ Yale** | 🏥 Bridging Code & Healthcare
 
@@ -8,15 +8,6 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
----
-
-### 📌 **Current Focus**
-- 🧬 **ML for Epidemiologies**: Building predictive models for rare diseases
-- 🏥 **ML & NLP**: Using LLMs for EHR analysis
-- 📊 **Yale Research**: Conducting economics & policy research
-- 🌱 Learning: **Deep Learning** 
-
 
 ---
 
