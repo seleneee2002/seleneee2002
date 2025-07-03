@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Mengyao ![Profile Views](https://komarev.com/ghpvc/?username=seleneee2002&color=dc143c&style=flat)
 
-🎓 **Health Informatics @ Yale** | 🏥 Bridging Code & Healthcare
+🎓 **Health Informatics @ Yale** | 🏥 Health Decision Modelling & Health Economics & Aging
 
 ---
 
